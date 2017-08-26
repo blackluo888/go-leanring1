@@ -1,0 +1,15 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+    "files.autoSave": "onFocusChange",
+    "go.goroot": "D:\\Program Files\\Go",
+    "go.gopath": "F:\\SoundCode\\Go_code\\goLangWeb",
+    "go.buildOnSave": "package",
+    "go.lintOnSave": "package",
+    "go.buildFlags": [],
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    "go.formatOnSave": false,
+    "go.formatTool": "goreturns",
+    "go.vetFlags": [],
+    "go.vetOnSave": "package",
+    "go.lintFlags": []
+}
