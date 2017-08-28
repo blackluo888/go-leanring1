@@ -2,7 +2,7 @@
 {
     "files.autoSave": "onFocusChange",
     "go.goroot": "D:\\Program Files\\Go",
-    "go.gopath": "F:\\SoundCode\\Go_code\\goLangWeb",
+    "go.gopath": "F:/SoundCode/Go_code/leanring_home1",
     "go.buildOnSave": "package",
     "go.lintOnSave": "package",
     "go.buildFlags": [],
